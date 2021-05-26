@@ -35,6 +35,7 @@ var JSONBingo = {
         { "square": "Fecking WEEEEEE!" },
         { "square": "Awww, lookit his widdle FACE!" },
         { "square": "STALLTRAIN" },
+        { "square": "[..] scared the piss out of me!" },
         { "square": "*Visiting penguin island, even tho there is nothing to do there*" }
     ]
 };
