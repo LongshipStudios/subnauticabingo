@@ -19,7 +19,7 @@ var JSONBingo = {
         { "square": "NOOOOOOOO!!!" },
         { "square": "Nonoonono!!!" },
         { "square": "*Will swims past something he needs*" },
-        { "square": "Just breath" },
+        { "square": "Just breathe" },
         { "square": "*Fiona scares Will*" },
         { "square": "Penglings are so cute!" },
         { "square": "AAAAArrasasghasd!" },
