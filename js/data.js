@@ -29,6 +29,7 @@ var JSONBingo = {
         { "square": "*Will is stalling some more*" },
         { "square": "*Will is stalling even more*" },
         { "square": "*Will taunts the game*" },
+        { "square": "*Will confuses somenumbers86 with FearlessSon*" },
         { "square": "This is my biggest fear!" },
         { "square": "I love this game" },
         { "square": "This is so beautiful" },
